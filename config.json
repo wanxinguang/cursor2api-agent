@@ -1,6 +1,6 @@
 {
-  "base_url": "https://new.145678.xyz",
-  "api_key": "sk-HE92WPx1C2Ssw7M4gM2bjMCsNQOo74rIaQab6kqIRdmGv27c",
+  "base_url": "https://your-api-endpoint.com",
+  "api_key": "YOUR_API_KEY_HERE",
   "auth_mode": "bearer",
   "model": "claude-sonnet-4.6",
   "max_steps": 10,
@@ -9,7 +9,7 @@
   "retry_backoff_seconds": 3,
   "max_tokens": 4096,
   "shell_timeout": 30,
-  "task": "Hi～",
+  "task": "Hi~",
   "server_port": 9090,
   "server_host": "127.0.0.1"
 }
