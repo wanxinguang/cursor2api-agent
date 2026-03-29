@@ -1,0 +1,15 @@
+{
+  "base_url": "https://new.145678.xyz",
+  "api_key": "sk-HE92WPx1C2Ssw7M4gM2bjMCsNQOo74rIaQab6kqIRdmGv27c",
+  "auth_mode": "bearer",
+  "model": "claude-sonnet-4.6",
+  "max_steps": 10,
+  "timeout_seconds": 3000,
+  "max_retries": 2,
+  "retry_backoff_seconds": 3,
+  "max_tokens": 4096,
+  "shell_timeout": 30,
+  "task": "Hi～",
+  "server_port": 9090,
+  "server_host": "127.0.0.1"
+}
